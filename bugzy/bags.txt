@@ -1,0 +1,3 @@
+black 
+pink 
+black and white
